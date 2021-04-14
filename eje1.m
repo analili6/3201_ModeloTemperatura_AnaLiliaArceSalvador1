@@ -27,6 +27,6 @@
 % Titulo
  title("C (f) = ((f * 5) / 9) +32");
 % Etiqueta para x
- xlabel ("FARENHEIT");
+ xlabel ( " FAHRENHEIT " );
 % Etiqueta para y
 ylabel ("CENTIGRADOS");
