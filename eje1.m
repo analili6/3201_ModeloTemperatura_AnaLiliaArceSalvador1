@@ -1,5 +1,5 @@
 % Modelo de temperatura
-% Título: Funcion constante
+% Título: Funcion 
 % Descripción: Script para graficar una funcion de la forma f (x) = a   
 % Autor: Ana Lilia Arce Salvador (analili6) al5853542@gmail.com
 % Fecha: 20210414
